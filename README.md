@@ -21,7 +21,7 @@ This project analyzes a very small dataset (1000 rows, 8 features), trying to ma
   
  ![image](https://github.com/user-attachments/assets/5c9b0f48-a256-4c21-bdac-c76c6cadfd6d)
  ![image](https://github.com/user-attachments/assets/4b55938a-62d3-4ba5-8366-a8822811fd8b)
- ![image](https://github.com/user-attachments/assets/5c568601-5e9b-4be9-a13d-6907344746d3)
+ ![image](https://github.com/user-attachments/assets/3dfc2fee-1342-4219-ae44-c7fe59be28f7)
  ![image](https://github.com/user-attachments/assets/71c8adc0-42b6-4fd1-91ac-0b6785f87595)
  ![image](https://github.com/user-attachments/assets/21da3924-f3b5-4cbc-b4fb-5a1dadbe08d5)
 
