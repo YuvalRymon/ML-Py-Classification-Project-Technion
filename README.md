@@ -1,4 +1,6 @@
 # Students Performance Classification
+<img width="831" alt="image" src="https://github.com/user-attachments/assets/26df3d7c-7b71-4d10-a88b-93ac22ac7b4d" />
+
 ## 1. Data and Mission
 This project analyzes a very small dataset (1000 rows, 8 features), trying to maximize its value by formulating and researching a relevant question. The dataset features include gender, race, parental education, lunch, test preparation, and student grades in math, reading, and writing.
 ### Sample Data (Head of DataFrame):
